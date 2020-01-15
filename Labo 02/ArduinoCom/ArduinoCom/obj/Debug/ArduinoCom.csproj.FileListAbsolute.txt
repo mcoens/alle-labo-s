@@ -1,0 +1,15 @@
+D:\SEM 3\Internet of things\Labo 02\ArduinoCom\ArduinoCom\bin\Debug\ArduinoCom.exe.config
+D:\SEM 3\Internet of things\Labo 02\ArduinoCom\ArduinoCom\bin\Debug\ArduinoCom.exe
+D:\SEM 3\Internet of things\Labo 02\ArduinoCom\ArduinoCom\bin\Debug\ArduinoCom.pdb
+D:\SEM 3\Internet of things\Labo 02\ArduinoCom\ArduinoCom\obj\Debug\ArduinoCom.csprojAssemblyReference.cache
+D:\SEM 3\Internet of things\Labo 02\ArduinoCom\ArduinoCom\obj\Debug\MainWindow.g.cs
+D:\SEM 3\Internet of things\Labo 02\ArduinoCom\ArduinoCom\obj\Debug\App.g.cs
+D:\SEM 3\Internet of things\Labo 02\ArduinoCom\ArduinoCom\obj\Debug\ArduinoCom_MarkupCompile.cache
+D:\SEM 3\Internet of things\Labo 02\ArduinoCom\ArduinoCom\obj\Debug\ArduinoCom_MarkupCompile.lref
+D:\SEM 3\Internet of things\Labo 02\ArduinoCom\ArduinoCom\obj\Debug\MainWindow.baml
+D:\SEM 3\Internet of things\Labo 02\ArduinoCom\ArduinoCom\obj\Debug\ArduinoCom.g.resources
+D:\SEM 3\Internet of things\Labo 02\ArduinoCom\ArduinoCom\obj\Debug\ArduinoCom.Properties.Resources.resources
+D:\SEM 3\Internet of things\Labo 02\ArduinoCom\ArduinoCom\obj\Debug\ArduinoCom.csproj.GenerateResource.cache
+D:\SEM 3\Internet of things\Labo 02\ArduinoCom\ArduinoCom\obj\Debug\ArduinoCom.csproj.CoreCompileInputs.cache
+D:\SEM 3\Internet of things\Labo 02\ArduinoCom\ArduinoCom\obj\Debug\ArduinoCom.exe
+D:\SEM 3\Internet of things\Labo 02\ArduinoCom\ArduinoCom\obj\Debug\ArduinoCom.pdb
